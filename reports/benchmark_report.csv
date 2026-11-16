@@ -1,0 +1,6 @@
+Query ID,Query Name,Coverage Score %,Total Latency (s),Vector Latency (s),Lexical Latency (s),Reranker Latency (s),Citation Score (Pages),Theme Diversity,Duplicate Rate %,Vector-Only Contribution %,Lexical-Only Contribution %,Both-Search Contribution %,Rerank Rank Shift Shift,Missing Concepts
+1,Ratnaveer Supply Chain,100.0,322.2624,0.1839,0.4064,275.2317,4,3,47.5,33.7,33.7,32.6,2.0,None
+2,Ratnaveer Business Model,92.0,428.173,0.2311,0.4594,384.4673,5,5,52.5,33.7,33.7,32.6,2.4,"asset-light/asset-heavy, acquisitions"
+3,Ratnaveer Moat,92.0,321.2276,0.0519,0.1578,287.2887,4,4,40.62,39.09,39.09,21.83,2.0,"differentiation, patents"
+4,Ather Margin Drivers,0.0,10.2513,0.1093,0.0261,287.2887,0,0,40.62,0.0,0.0,0.0,0,"EBITDA margins, revenue growth, cost optimization, cash flow margins, operating leverage, margin drivers, gross margin, profitability milestones"
+5,Ather Sourcing & CapEx,0.0,23.0346,0.0355,0.0069,0.0,0,0,0.0,0.0,0.0,0.0,0,"In-house manufacturing, battery assembly, cells sourcing, vertical integration, technology collaborations, assembly lines capacity, domestic supply chain, imported parts dependency, vendor ecosystem"

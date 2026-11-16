@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Temporary & Logs
+logs/
+*.log
+temp_pdf_batches/
+
+# Heavy Weights & Databases
+chroma_db/
+faiss_index/
+*.bin
+*.safetensors
+*.pt
+*.onnx
+*.db
+*.sqlite
+
+# Data & Documents
+data/
+*.pdf
+
+# Output text dumps
+output.txt
+market.txt
+markeptpos.txt
+raw.txt
+overview.txt
+output_revenue.txt
+output_utf8.txt

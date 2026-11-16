@@ -1,0 +1,1981 @@
+================================================================================
+DOCUMENT METADATA
+================================================================================
+
+Company           : Ather Energy
+Document Type     : Investor Presentation
+Fiscal Year       : FY2026
+Quarter           : Q1
+Total Pages       : 43
+
+================================================================================
+Page : 1
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 1
+section             : Date: 10/08/2026
+heading             : Date: 10/08/2026
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Date: 10/08/2026
+
+Extracted Text
+----------------------------------------
+
+To,
+
+The Listing Compliance Department, BSE Limited, P J Towers, Dalal Street, Mumbai - 400001
+
+Scrip Code: 534809
+
+The Listing Compliance Department, National Stock Exchange of India Limited, Exchange Plaza, Bandra Kurla Complex, Bandra (East), Mumbai - 400051
+
+Symbol: PCJEWELLER
+
+Sub.: Results Presentation
+
+Dear Sir / Ma'am,
+
+Please find enclosed herewith the presentation on the financial results of the Company for the quarter ended June 30, 2026 alongwith the highlights.
+
+Kindly take the same on record.
+
+Yours sincerely,
+
+For PC Jeweller Limited
+
+(VISHAN DEO)
+
+Executive Director (Finance) & CFO
+
+DIN: 07634994
+
+Encl.
+
+: As above
+
+
+================================================================================
+Page : 2
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 2
+section             : Highlights
+heading             : Highlights
+chunk_type          : page
+has_table           : True
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+financial_metrics   : ['income', 'pat', 'revenue']
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : True
+contains_figures    : False
+contains_charts     : False
+document_scope      : forward_looking
+topic               : guidance
+
+Title
+----------------------------------------
+Highlights
+
+Extracted Text
+----------------------------------------
+
+ The Company continues to showcase robust operational performance in Q1FY27 riding on improved customer demand and footfall, reflecting significant progress in its ongoing turnaround journey. Its Consolidated revenues increased by approximately 21% year-onyear to Rs 877 crores. A summary of the Company's Consolidated financial performance is presented below -
+
+(Rs. In Crores)
+
+*excludes other income
+
+ The Company's Consolidated Operating PAT (i.e PAT excluding other income) rose to Rs 213 crores in Q1FY27 from Rs 79 crores in Q1FY26, registering a growth of 168%.
+
+ The Company has made significant progress in its deleveraging journey and has fully repaid and discharged the debt of 7 out of 14 consortium banks as on date, with all repayments completed ahead of scheduled due dates. Further, the company has discharged more than 96% of the outstanding debt of the remaining 7 banks as well. The company remains firmly on track to achieve a debt-free status in ongoing quarter itself, which will materially strengthen its balance sheet and financial position.
+
+ The company's fund raising of Rs 2,702.11 crores via Preferential issue of fully convertible warrants was completed successfully during the quarter ended June 2026 with realization of 93% of the issue proceeds. Also, since the end of the quarter, the Company continued to receive strong promoter support, reflected in the conversion of an additional 4.16 crore warrants into equity shares. This showcases continued confidence in the Company's growth prospects, strengthens the equity base, and further aligns promoter interests with long-term shareholder value creation.
+
+ In line with its long-term growth strategy, in July 2026, the Board has approved raising up to Rs 1,000 crore through a Qualified Institutional Placement (QIP), subject to requisite approvals. The proposed fund raise will be primarily used to support future growth opportunities, strengthen financial flexibility and enhance the Company's ability to scale its operations.
+
+ During the quarter ended June 2026, PCJ Mining SARL, a step-down subsidiary of the Company, has been granted license for semi-mechanized artisanal mining of gold by the Ministry of Petroleum, Mining and Oil Geology, Republic of Chad.
+
+Tables
+----------------------------------------
+Sales | 877 | 725 | Increase by 21%
+Gross Profit | 260 | 144 | Increase by 81%
+Operating EBITDA* | 242 | 127 | Increase by 90%
+Operating PBT* | 223 | 81 | Increase by 176%
+
+Title : Parameter Q1FY27 Q1FY26 Change
+Parameter | Q1FY27 | Q1FY26 | Change
+Sales | 877 | 725 | Increase by 21%
+Gross Profit | 260 | 144 | Increase by 81%
+Operating EBITDA* | 242 | 127 | Increase by 90%
+Operating PBT* | 223 | 81 | Increase by 176%
+
+
+================================================================================
+Page : 3
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 3
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Extracted Text
+----------------------------------------
+
+ Further, the response received by the company from prospective business partners for establishing large format franchisee showrooms with them has been very encouraging. The company has already executed MoU's with the National Skill Development Corporation (NSDC) under the Ministry of Skill Development & Entrepreneurship, Government of India and with the Government of Uttar Pradesh under the CM YUVA scheme for onboarding of entrepreneurs under the PC Jeweller brand. These strategic partnerships shall reap long term benefits for the company.
+
+ The Company remains committed to building a stronger, more resilient and growth-oriented organisation creating long-term value for shareholders and other stakeholders.
+
+
+================================================================================
+Page : 4
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 4
+section             : PC Jeweller Limited
+heading             : PC Jeweller Limited
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+PC Jeweller Limited
+
+Extracted Text
+----------------------------------------
+
+Investor Presentation
+
+Q1FY27
+
+BSE : 534809 | NSE : PCJEWELLER
+
+
+================================================================================
+Page : 5
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 5
+section             : Safe Harbour
+heading             : Safe Harbour
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+financial_metrics   : ['profit']
+keywords            : ['ev', 'warranty']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : forward_looking
+topic               : guidance
+
+Title
+----------------------------------------
+Safe Harbour
+
+Extracted Text
+----------------------------------------
+
+This Presentation and the accompanying slides (the 'presentation'), have been prepared by PC Jeweller Limited (the 'Company'), solely for information purposes and do not constitute any offer, recommendation or invitation to purchase or subscribe for any securities, and shall not form the basis or be relied on in connection with any contract or binding commitment whatsoever. No offering of securities of the Company will be made except by means of a statutory offering document containing detailed information about the Company.
+
+This presentation has been prepared by the Company based on information and data which the Company considers reliable, but the Company makes no representation or warranty, express or implied, whatsoever, and no reliance shall be placed on the truth, accuracy, completeness, fairness and reasonableness of the contents of this presentation. This presentation may not be all inclusive and may not contain all of the information that you may consider material. Any liability in respect of the contents of, or any omission from this Presentation is expressly excluded.
+
+This presentation contains certain forward-looking statements concerning the Company's future business prospects and business profitability, which are subject to a number of risks and uncertainties and the actual results could materially differ from those in such forward-looking statements. The risks and uncertainties relating to these statements include, but are not limited to, risks and uncertainties regarding fluctuations in earnings, the Company's ability to manage growth, competition (both domestic and international), economic growth in India and abroad, ability to attract and retain highly skilled professionals, time and cost over runs on contracts, the Company's ability to manage its operations, government policies and actions regulations, interest and other fiscal costs generally prevailing in the economy. The Company does not undertake to make any announcement in case any of these forward-looking statements become materially incorrect in future or update any forward-looking statements made from time to time by or on behalf of the Company.
+
+
+================================================================================
+Page : 6
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 6
+section             : Table of Contents
+heading             : Table of Contents
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Table of Contents
+
+Extracted Text
+----------------------------------------
+
+Q1FY27 Performance Highlights
+
+Business Overview & Competitive Strengths
+
+A Glimpse of PC Jeweller's Jewellery themes & Showrooms
+
+Strategic Partnerships under Government Initiatives
+
+Industry Overview
+
+Way Forward
+
+
+================================================================================
+Page : 7
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 7
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Extracted Text
+----------------------------------------
+
+Figures
+----------------------------------------
+Summary : Financial chart containing business metrics and values.
+Type : financial_chart
+Useful OCR:
+Q1FY27
+Performance Highlights
+
+
+================================================================================
+Page : 8
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 8
+section             : Management Commentary on Q1FY27 Performance
+heading             : Management Commentary on Q1FY27 Performance
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+financial_metrics   : ['ebitda', 'revenue']
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Title
+----------------------------------------
+Management Commentary on Q1FY27 Performance
+
+Extracted Text
+----------------------------------------
+
+'We have entered FY27 with continued progress across business operations and strengthening company's financial position. During Q1FY27, the Company delivered a Consolidated Revenue growth of 21%, Consolidated Operating EBITDA growth of 90% and Consolidated Operating PBT growth of 176%, supported by improved customer demand and footfall.
+
+0
+
+The Company has made significant progress in its deleveraging journey and has fully repaid and discharged the debt of 7 out of 14 consortium banks as on date, with all repayments completed ahead of scheduled due dates. Further, the company has discharged more than 96% of the outstanding debt of the remaining 7 banks as well. The company remains firmly on track to achieve a debt-free status in ongoing quarter itself, which will materially strengthen its balance sheet and financial position.
+
+The company's fund raising of Rs 2,702.11 crores via Preferential issue of fully convertible warrants was completed successfully during the quarter ended June 2026 with realization of 93% of the issue proceeds. Also, since the end of the quarter, the Company continued to receive strong promoter support, reflected in the conversion of an additional 4.16 crore warrants into equity shares. This further strengthens the Company's capital base and demonstrates continued confidence in its long-term growth prospects.
+
+Also, in July 2026, the Board approved raising up to Rs. 1,000 crore through a Qualified Institutional Placement (QIP), subject to requisite approvals, which is expected to enhance financial flexibility and support the Company's growth and expansion plans.
+
+
+================================================================================
+Page : 9
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 9
+section             : Management Commentary on Q1FY27 Performance (con't)
+heading             : Management Commentary on Q1FY27 Performance (con't)
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Management Commentary on Q1FY27 Performance (con't)
+
+Extracted Text
+----------------------------------------
+
+Additionally, during the quarter ended June 2026, PCJ Mining SARL, a step-down subsidiary of the Company, has been granted license for semi-mechanized artisanal mining of gold by the Ministry of Petroleum, Mining and Oil Geology, Republic of Chad, thereby creating significant opportunities for value chain integration and entry into mining operations. We expect the production through mining activities to commence in this financial year itself thereby further improving the company's financials.
+
+0
+
+Further, the response received by the company from prospective business partners for establishing large format franchisee showrooms with them has been very encouraging. The company has already executed MoU's with the National Skill Development Corporation (NSDC) under the Ministry of Skill Development & Entrepreneurship, Government of India and with the Government of Uttar Pradesh under the CM YUVA scheme for onboarding of entrepreneurs under the PC Jeweller brand. These strategic partnerships shall reap long term benefits for the company.
+
+The Company remains committed to building a stronger, more resilient and growth-oriented organisation. Backed by a trusted brand, an expanding customer base and a disciplined approach to growth, we are confident in our ability to create long-term value for shareholders and other stakeholders.'
+
+
+================================================================================
+Page : 10
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 10
+section             : Deleveraging Journey - Towards a Debt-Free Balance Sheet
+heading             : Deleveraging Journey - Towards a Debt-Free Balance Sheet
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Title
+----------------------------------------
+Deleveraging Journey - Towards a Debt-Free Balance Sheet
+
+Extracted Text
+----------------------------------------
+
+Rapid debt reduction under the Joint Settlement Agreement with the 14-bank consortium
+
+7 of 14
+
+Lenders fully repaid
+
+Debt of seven consortium banks prepaid and discharged ahead of scheduled due dates
+
+>96%
+
+Debt Reduced
+
+Outstanding debt of remaining seven banks reduced by more than 96%
+
+Debt Resolution Milestones
+
+Dec 2023
+
+One-Time Settlement proposal submitted to the consortium of 14 lenders.
+
+30 Sep 2024
+
+Mar 2025
+
+Joint Settlement Agreement executed with the lenders Discharged more than 50% of the outstanding debt of banks till end of FY25
+
+<4%
+
+Balance Debt of remaining 7 banks
+
+Less than 4% Debt outstanding of the remaining seven consortium banks Q2FY27
+
+Debt-free target
+
+Company remains on track to clear all remaining dues in the ongoing quarter itself
+
+Settlement executed and being repaid ahead of schedule
+
+Apr 2026
+
+Reduced outstanding debt by more than 90% since execution of Joint settlement Agreement Aug 2026
+
+More than 96% debt reduced. Debt of 7 consortium banks fully cleared, each ahead of its scheduled due date.
+
+Dec 2025
+
+Outstanding debt reduced by ~68% till Q3FY26 since execution of Joint settlement agreement
+
+7
+
+
+================================================================================
+Page : 11
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 11
+section             : Business Highlights - Q1FY27
+heading             : Business Highlights - Q1FY27
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+financial_metrics   : ['ebitda', 'income', 'pat', 'profit', 'revenue']
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Title
+----------------------------------------
+Business Highlights - Q1FY27
+
+Extracted Text
+----------------------------------------
+
+The Company continues to deliver robust operating performance during the quarter, supported by improved customer demand and footfall during the quarter. Consolidated revenues grew by 21% year-on-year to Rs 877 crores in Q1FY27, as compared to Rs 725 crores in Q1FY26.
+
+Consolidated Operating EBITDA (i.e EBITDA excluding other income) also witnessed an improvement, standing at a profit of Rs 242 crores in Q1FY27 compared to a profit of Rs 127 crores in Q1FY26, reflecting a growth of 90%.
+
+The Company's Consolidated Operating PBT (i.e PBT excluding other income) also showcased a significant upside by clocking a profit of Rs 223 crores in Q1FY27 compared to a profit of Rs 81 crores in Q1FY26, reflecting a growth of 176%.
+
+Consolidated Operating PAT (i.e PAT excluding other income) rose to Rs 213 crores in Q1FY27 from Rs 79 crores in Q1FY26, registering a growth of 168%. The company was under the interest moratorium period till December 2024, as per the terms of the One Time Settlement with the banks. The company started incurring finance cost only after the end of the moratorium period, i.e Q4FY25 onwards, since then the Company has been meeting its financial obligations in a timely manner, and continues to reduce its outstanding debt. Upon achieving its goal of becoming debt-free, the Company will no longer incur borrowingrelated finance costs. Further, the company has earned a substantial Consolidated Operating PAT of Rs 213 crores in Q1FY27 after servicing the finance cost of approximately Rs 14 crores in this quarter.
+
+
+================================================================================
+Page : 12
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 12
+section             : Business Highlights - Q1FY27
+heading             : Business Highlights - Q1FY27
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Title
+----------------------------------------
+Business Highlights - Q1FY27
+
+Extracted Text
+----------------------------------------
+
+The Company has made significant progress in its deleveraging journey and has fully repaid and discharged the debt of 7 out of 14 consortium banks as on date, with all repayments completed ahead of scheduled due dates. Further, the company has discharged more than 96% of the outstanding debt of the remaining 7 banks as well. The company remains firmly on track to achieve a debt-free status in ongoing quarter itself, which will materially strengthen its balance sheet and financial position.
+
+The company's fund raising of Rs 2,702.11 crores via Preferential issue of fully convertible warrants was completed successfully during the quarter ended June 2026 with realization of 93% of the issue proceeds.
+
+Since the end of the quarter, the Company continued to receive strong promoter support, reflected in the conversion of an additional 4.16 crore warrants into equity shares. The conversion underscores continued confidence in the Company's growth prospects, strengthens the equity base, and further aligns promoter interests with long-term shareholder value creation.
+
+Additionally, in July 2026, the Board has approved raising up to Rs. 1,000 crore through a Qualified Institutional Placement (QIP) in one or more tranches, subject to requisite approvals, with the proposed fund raise expected to enhance financial flexibility and support the Company's growth and expansion plans.
+
+
+================================================================================
+Page : 13
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 13
+section             : Business Highlights - Q1FY27
+heading             : Business Highlights - Q1FY27
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Business Highlights - Q1FY27
+
+Extracted Text
+----------------------------------------
+
+Also, during the quarter ended June 2026, PCJ Mining SARL, a step-down subsidiary of the Company, has been granted license for semi-mechanized artisanal mining of gold by the Ministry of Petroleum, Mining and Oil Geology, Republic of Chad.
+
+The response received by the company from prospective business partners for establishing large format franchisee showrooms with them has been very encouraging. The company has already executed MoU's with the National Skill Development Corporation (NSDC) under the Ministry of Skill Development & Entrepreneurship, Government of India and with the Government of Uttar Pradesh under the CM YUVA scheme for onboarding of entrepreneurs under the PC Jeweller brand. These strategic partnerships shall reap long term benefits for the company.
+
+
+================================================================================
+Page : 14
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 14
+section             : Financial Snapshot - Q1FY27
+heading             : Financial Snapshot - Q1FY27
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : financials
+
+Title
+----------------------------------------
+Financial Snapshot - Q1FY27
+
+Extracted Text
+----------------------------------------
+
+Q1FY27
+
+Figures
+----------------------------------------
+Summary : Financial chart containing business metrics and values.
+Type : financial_chart
+Useful OCR:
+Revenue
+Gross Margin
+Operating EBITDA
+Operating PBT*
+
+Summary : Financial chart containing business metrics and values.
+Type : financial_chart
+Useful OCR:
+21% YoY
+81% YoY
+90% YoY
+176% YoY
+
+
+================================================================================
+Page : 15
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 15
+section             : Consistently Delivering Strong Performance
+heading             : Consistently Delivering Strong Performance
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Consistently Delivering Strong Performance
+
+Extracted Text
+----------------------------------------
+
+Figures
+----------------------------------------
+Summary : Financial chart containing business metrics and values.
+Type : financial_chart
+Useful OCR:
+Consistently Delivering Strong Performance
+PCJ
+igures in Rs. Cr.
+Revenue
+Operating EBITDA*
+Q1FY25
+Q1FY26
+Q1FY27
+Operating PBT*
+
+
+================================================================================
+Page : 16
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 16
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 17
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 17
+section             : PC Jeweller : At a Glance
+heading             : PC Jeweller : At a Glance
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Title
+----------------------------------------
+PC Jeweller : At a Glance
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 18
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 18
+section             : Comprehensive Business Model Catering to All Customer Segments
+heading             : Comprehensive Business Model Catering to All Customer Segments
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : historical
+topic               : general
+
+Title
+----------------------------------------
+Comprehensive Business Model Catering to All Customer Segments
+
+Extracted Text
+----------------------------------------
+
+Offering a range of gold, diamond, silver, and gemstone jewellery like bangles, rings, bracelets, necklaces, etc.; designed to meet the varying needs of customers, catering to bridal, occasional, and everyday wear.
+
+Product Range
+
+Rings
+
+Earrings
+
+Necklace
+
+Bangles
+
+Bracelets
+
+Nose Pins
+
+Mangal Sutra
+
+Product Category
+
+Gold
+
+Diamond / Studded
+
+Silver
+
+Gemstone
+
+Distribution Channels
+
+High Street Showrooms
+
+Mass Market Showrooms
+
+FranchiseeOwned Showrooms
+
+E-Commerce
+
+Customer Segments
+
+Ultra Rich
+
+Rich & Upper Middle Class
+
+Middle and Lower Middle Class
+
+Collections
+
+Wedding Collection
+
+Men's Collection
+
+Dashavatar
+
+Anant
+
+Folia Amoris
+
+Adding other themed and emerging collections
+
+Tables
+----------------------------------------
+Title : Product Range
+Product Range
+• Rings • Earrings • Necklace • Bangles • Bracelets
+
+Title : Product Category
+Product Category
+• Gold • Diamond / Studded • Silver • Gemstone
+
+Title : DistributionChannels
+DistributionChannels
+• High Street Showrooms • Mass Market Showrooms • Franchisee-
+
+Title : CustomerSegments
+CustomerSegments
+• Ultra Rich • Rich & Upper Middle Class • Middle and Lower Middle Class
+
+Title : Collections
+Collections
+• Wedding Collection • Men’s Collection • Dashavatar • Anant • Folia Amoris
+
+
+================================================================================
+Page : 19
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 19
+section             : Integrated Business Model
+heading             : Integrated Business Model
+chunk_type          : page
+has_table           : True
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : True
+contains_figures    : False
+contains_charts     : False
+document_scope      : forward_looking
+topic               : guidance
+
+Title
+----------------------------------------
+Integrated Business Model
+
+Extracted Text
+----------------------------------------
+
+Tables
+----------------------------------------
+• In-house team of skilled creating trend-led, contemporary, and traditional jewellery | designers • Established supplier ecosystem reduce dependence on intermediaries | • Multi-stage quality checks from raw material sourcing to final product | • Centralized inventory monitoring with real-time tracking across showrooms
+• Strong focus on consumer preferences across wedding, occasion, and daily wear segments | • Efficient procurement to ensure better pricing and raw material cost control | • Hallmarking and gold, diamond, and jewellery to build consumer | certification for studded trust | • Dynamic inventory allocation model i.e. high-turnover products pushed to mass-market showrooms, premium products to high-street showrooms
+• Leveraging consumer insights to launch collections aligned with Gen Z and millennial trends | • Established supplier relationships for consistency in quality and timely availability | • Products adhere to and Certification | Hallmarking standards • | Inventory discipline has led to working capital efficiency improvement in recent quarters
+Assurance You Can Adorn | BIS Hallmarked | Certified Jewellery Best | Lifetime Exchange Designs | Customization Options
+
+
+================================================================================
+Page : 20
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 20
+section             : Omni-Channel Presence Driving Market Reach
+heading             : Omni-Channel Presence Driving Market Reach
+chunk_type          : page
+has_table           : True
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : True
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Omni-Channel Presence Driving Market Reach
+
+Extracted Text
+----------------------------------------
+
+Omni Channel Approach
+
+Tables
+----------------------------------------
+Middle & lower middle class | Tier 2 & 3 city customers | Rich, upper middle class, wedding buyers | Young, urban, working professionals | Tier 4 & smaller cities
+Local markets with high footfall | Partner-led showrooms in smaller cities | Premium high street locations | Digital presence across major cities | Small shops in 150 - 200 sq. ft. area
+Gold jewellery, small-ticket items | Branded gold & diamond jewellery | Wide range incl. designer & wedding pieces | Daily wear, work wear, curated collections | Branded jewellery
+Branded interiors | Brand-standard interiors, monitored operations | Trust-building, variety, service policies | Seamless browsing, online- offline synergy | Access to branded jewellery
+Expands reach in unorganised markets | Scalable with high ROCE, low risk | Strengthens brand image & wallet share | Fast growing segment, early customer capture | Huge potential by establishing branded outlets in tapped rural
+
+Figures
+----------------------------------------
+Summary : Financial chart containing business metrics and values.
+Type : financial_chart
+Useful OCR:
+Mass Market
+Showrooms
+Target Audience
+Middle & lower middle cla:
+Local markets with high
+Location Strategy
+footfall
+Gold jewellery, small-ticke
+Product Focus
+items
+Customer Experience
+Branded interiors
+Expands reach in
+Growth Potential
+unorganised markets
+
+Summary : Business/process diagram.
+Type : diagram
+Useful OCR:
+Franchisee Model
+Online Platform
+(Govt. schemes)
+
+
+================================================================================
+Page : 21
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 21
+section             : Customer-Centric Retail Strategy Across Demographics
+heading             : Customer-Centric Retail Strategy Across Demographics
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+keywords            : ['retail']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : strategy
+
+Title
+----------------------------------------
+Customer-Centric Retail Strategy Across Demographics
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 22
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 22
+section             : Extensive Market Reach
+heading             : Extensive Market Reach
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Extensive Market Reach
+
+Extracted Text
+----------------------------------------
+
+Tables
+----------------------------------------
+Title : Extensive Market Reach Jammu Punjab Uttarakhand 12 Haryana Uttar Pradesh Assam Rajasthan Delhi States Bihar Jharkhand Combination of Madhya Pradesh Franchisee owned as Chhattisgarh well as Company owned Showrooms E-Commerce presence 19
+Extensive Market Reach Jammu Punjab Uttarakhand 12 Haryana Uttar Pradesh Assam Rajasthan Delhi States Bihar Jharkhand Combination of Madhya Pradesh Franchisee owned as Chhattisgarh well as Company owned Showrooms E-Commerce presence 19
+12 States Combination of Franchisee owned as well as Company owned Showrooms E-Commerce presence 19
+
+
+================================================================================
+Page : 23
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 23
+section             : A Glimpse of PC Jeweller's Jewellery themes & Showrooms
+heading             : A Glimpse of PC Jeweller's Jewellery themes & Showrooms
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+A Glimpse of PC Jeweller's Jewellery themes & Showrooms
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 24
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 24
+section             : Diamond Wedding Jewellery
+heading             : Diamond Wedding Jewellery
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Diamond Wedding Jewellery
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 25
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 25
+section             : Polki Jewellery
+heading             : Polki Jewellery
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Polki Jewellery
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 26
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 26
+section             : Jewellery for Men
+heading             : Jewellery for Men
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Jewellery for Men
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 27
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 27
+section             : Silver Diamond Jewellery
+heading             : Silver Diamond Jewellery
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Silver Diamond Jewellery
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 28
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 28
+section             : Silver Gifting
+heading             : Silver Gifting
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Silver Gifting
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 29
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 29
+section             : A Glimpse at some of the Showrooms
+heading             : A Glimpse at some of the Showrooms
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+A Glimpse at some of the Showrooms
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 30
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 30
+section             : A Glimpse at some of the Showrooms
+heading             : A Glimpse at some of the Showrooms
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+A Glimpse at some of the Showrooms
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 31
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 31
+section             : Strategic Partnerships under Government Initiatives
+heading             : Strategic Partnerships under Government Initiatives
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : strategy
+
+Title
+----------------------------------------
+Strategic Partnerships under Government Initiatives
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 32
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 32
+section             : Partnerships Under Government Initiatives enabling Expansion for PC Jeweller
+heading             : Partnerships Under Government Initiatives enabling Expansion for PC Jeweller
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+keywords            : ['ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : strategy
+
+Title
+----------------------------------------
+Partnerships Under Government Initiatives enabling Expansion for PC Jeweller
+
+Extracted Text
+----------------------------------------
+
+Chief Minister Yuva Udyami Vikas Abhiyan (CM YUVA) Yojana
+
+PC Jeweller has been onboarded as an approved Franchise Brand under CM YUVA and has entered into an MoU with CM YUVA Mission under Department of MSME and Export Promotion, Government of Uttar Pradesh for Entrepreneurship Development & Employment Generation National Entrepreneurs Empowerment Drive (NEED)
+
+PC Jeweller has entered into an MoU with National Skill Development Corporation (NSDC) to act as the Industry Partner for the Gems & Jewellery sector under NEED initiative for development and onboarding 2,00,000 micro-entrepreneurs over 5 years under the PCJ Brand
+
+
+================================================================================
+Page : 33
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 33
+section             : CM-YUVA YOJANA : Scheme Overview
+heading             : CM-YUVA YOJANA : Scheme Overview
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+CM-YUVA YOJANA : Scheme Overview
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 34
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 34
+section             : NSDC's 'NEED' : Scheme Overview
+heading             : NSDC's 'NEED' : Scheme Overview
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+financial_metrics   : ['pat']
+keywords            : ['ecosystem', 'ev']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+NSDC's 'NEED' : Scheme Overview
+
+Extracted Text
+----------------------------------------
+
+The National Entrepreneurs Empowerment Drive (NEED) is NSDC's flagship initiative to transform skilled youth into micro-entrepreneurs through a market-linked ecosystem. It connects aspiring entrepreneurs with industry-led opportunities, institutional support, and access to finance.
+
+Encourage entrepreneurship-driven livelihoods in rural and semi-urban regions Encourage entrepreneurship-driven livelihoods in rural and semi-urban regions
+
+Enable access to industry-aligned business opportunities for aspiring entrepreneurs Enable access to industry-aligned business opportunities for aspiring entrepreneurs
+
+Improve access to formal financing through viable and market-linked models Improve access to formal financing through viable and market-linked models
+
+Spans across 15 sectors, with one lead Industry/Franchise Partner identified for each sector.
+
+Develop a scalable ecosystem bringing together government, industry, financial institutions, & implementation partners Develop a scalable ecosystem bringing together government, industry, financial institutions, & implementation partners
+
+Boost local economies through decentralized enterprise development at the Panchayat level Boost local economies through decentralized enterprise development at the Panchayat level
+
+Establish clear pathways from skill development to enterprise creation Establish clear pathways from skill development to enterprise creation
+
+PC Jeweller - Industry/Franchise Partner for Gems & Jewellery Sector
+
+Development and onboarding of up to 2,00,000 microentrepreneurs across India over 5 years under the PC Jeweller brand.
+
+Vision behind NEED
+
+
+================================================================================
+Page : 35
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 35
+section             : PC Jeweller's Role under CM YUVA & NEED
+heading             : PC Jeweller's Role under CM YUVA & NEED
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+financial_metrics   : ['pat']
+keywords            : ['ecosystem', 'ev', 'software']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+PC Jeweller's Role under CM YUVA & NEED
+
+Extracted Text
+----------------------------------------
+
+Standardized Business Model
+
+To provide standardized business model, branding, store setup guidance, and market access to ensure consistency and scalability
+
+End to End Support
+
+Assist in enabling operations through end-to-end support, including training and technology systems like ERP billing, accounting & other software support
+
+Financing
+
+Supports access to financing linkages and institutional partnerships, facilitating entrepreneur onboarding
+
+Supply chain & Operations
+
+Strengthens execution via robust supply chain, inventory planning, and pan-India operational capabilities
+
+Marketing & Demand Generation
+
+Drives market development through national and local-level marketing initiatives, enhancing brand visibility and demand
+
+Ecosystem Integration
+
+Integrates micro-entrepreneurs into its business ecosystem, enabling structured participation in the jewellery value chain
+
+
+================================================================================
+Page : 36
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 36
+section             : Value Creation for PC Jeweller under these Initiatives
+heading             : Value Creation for PC Jeweller under these Initiatives
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+keywords            : ['retail']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Value Creation for PC Jeweller under these Initiatives
+
+Extracted Text
+----------------------------------------
+
+Rapid, Low cost Retail Expansion
+
+Enables scaling of retail footprint across Tier 2, Tier 3, and rural markets through a franchise/micro-entrepreneur model without significant capital investment
+
+Strengthen Brand Visibility & Trust
+
+Wider network of entrepreneurs and franchisees significantly enhances brand recall, credibility, and consumer trust across India
+
+Deeper Market Penetration in underserved Geographies
+
+Unlocks access to new retail touchpoints in regions with low organised jewellery penetration
+
+First Mover's Advantage
+
+Positions PCJ to capture share from the unorganised jewellery segment in Tier 2, Tier 3 & rural markets.
+
+Asset Light & Capital Efficient Growth
+
+Franchise-led expansion reduces store setup and working capital requirements, improving ROCE & supporting scalable growth
+
+Strategic Business Value Creation
+
+Aligns with structural industry trends, driving sustainable growth, employment generation, and long-term brand equity
+
+
+================================================================================
+Page : 37
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 37
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 38
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 38
+section             : India's Jewellery Market: A $140 Billion Opportunity Driven by Organised Retail Expansion
+heading             : India's Jewellery Market: A $140 Billion Opportunity Driven by Organised Retail Expansion
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+financial_metrics   : ['sales']
+keywords            : ['retail']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : strategy
+
+Title
+----------------------------------------
+India's Jewellery Market: A $140 Billion Opportunity Driven by Organised Retail Expansion
+
+Extracted Text
+----------------------------------------
+
+29%
+
+35%
+
+71%
+
+65%
+
+2018
+
+2023
+
+Unorganized
+
+Gold is considered as a status symbol as well as auspicious.
+
+Indians spend a significant proportion of their wedding budget on jewellery.
+
+It is considered as an important mode of saving by the female of the house.
+
+Many families start buying gold for a girl child from the 1st year in preparation for her wedding.
+
+Mid-size retailers account for 70% of sales with expected shift to regional and national chain on the back of increasing regulatory compliances.
+
++12%-14%
+
+140.0
+
+2029E
+
+45%
+
+55%
+
+2028P
+
+Organized CAGR
+
+CY23 - 28P
+
+15%-17%
+
+8%-10%
+
+67.0
+
+Figures
+----------------------------------------
+Summary : Financial chart containing business metrics and values.
+Type : financial_chart
+
+
+================================================================================
+Page : 39
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 39
+section             : Key Growth Drivers
+heading             : Key Growth Drivers
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+financial_metrics   : ['income']
+keywords            : ['manufacturing']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Key Growth Drivers
+
+Extracted Text
+----------------------------------------
+
+Rising Discretionary Incomes
+
+Increased spending power among the middle class
+
+Young Urban Population
+
+Preference for trendy and fashionable jewellery
+
+Jewellery as Accessory
+
+Shift towards daily & casual jewellery
+
+Western Influence
+
+Demand for diamond-studded jewellery
+
+Strong Skill Sets
+
+High-quality manufacturing & craftsmanship
+
+Gold Metal Loan Scheme
+
+Boosting jewellery production
+
+Financially Independent Women
+
+Emergence of women as key shoppers
+
+Favourable Regulatory Environment
+
+Policies supporting investment & trust
+
+
+================================================================================
+Page : 40
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 40
+section             : Diamond/Studded Jewellery : Expanding Share in Value Added Mix
+heading             : Diamond/Studded Jewellery : Expanding Share in Value Added Mix
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+financial_metrics   : ['margin']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Diamond/Studded Jewellery : Expanding Share in Value Added Mix
+
+Extracted Text
+----------------------------------------
+
+Diamond/Studded Industry
+
+Diamond/Studded Jewellery Market in India is expected to grow at +21% CAGR by FY28
+
+ Diamond-studded jewellery enjoys higher gross margins as compared to gold jewellery due to design innovation and premium pricing potential.
+
+ Studded market in India is expected to outgrow the other metals, driven by shift in consumer preferences for lightweight, versatile and affordable designs among Gen-Z and Millennials.
+
+Figures
+----------------------------------------
+Summary : Financial chart containing business metrics and values.
+Type : financial_chart
+Useful OCR:
+Diamond/Studded Industry
+21%-23%
+2028P
+
+
+================================================================================
+Page : 41
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 41
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Extracted Text
+----------------------------------------
+
+
+================================================================================
+Page : 42
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 42
+section             : Way Forward
+heading             : Way Forward
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : True
+financial_metrics   : ['cash']
+keywords            : ['ev', 'manufacturing', 'retail']
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : True
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : forward_looking
+topic               : guidance
+
+Title
+----------------------------------------
+Way Forward
+
+Extracted Text
+----------------------------------------
+
+Transition to a DebtFree Balance Sheet to enhance financial resilience
+
+The Company has fully repaid 7 out of 14 consortium banks as on date. Further, more than 96% of the debt of the remaining 7 banks has also been discharged so far. The company will become debt-free in the ongoing quarter itself
+
+Leveraging Core Strength
+
+Core strengths in the form of manufacturing & designing capabilities, manufacturing facilities, skilled staff, soft skills in the form of systems and procedures, customer policies, etc. intact, the company is poised for a bright future.
+
+Exploring the opportunity of expansion of retail footprint
+
+With renewed market engagement and sustainable growth through network maturity, company shall explore opportunity of expanding its retail footprint in future
+
+·
+
+Deliver sustained value creation for shareholders
+
+With surplus cash, no further finance cost and the strategic turnaround underway, the company expects sustained value creation for its shareholders
+
+Possibility of establishing vertical integration through Mining
+
+PCJ Mining SARL, a step-down subsidiary of the Company, has been granted license for semi-mechanized artisanal mining of gold by the Ministry of Petroleum, Mining and Oil Geology, Republic of Chad, thereby creating an opportunity for the company to explore Mining as well as possibility of vertical integration
+
+
+================================================================================
+Page : 43
+================================================================================
+
+Metadata
+----------------------------------------
+page_number         : 43
+section             : Thank You
+heading             : Thank You
+chunk_type          : page
+has_table           : False
+has_chart           : False
+has_diagram         : False
+has_image           : False
+has_numbers         : False
+company_name        : Ather Energy
+document_type       : Investor Presentation
+reporting_period    : Q1 FY2026
+contains_financials : False
+contains_tables     : False
+contains_figures    : False
+contains_charts     : False
+document_scope      : current
+topic               : general
+
+Title
+----------------------------------------
+Thank You
+
+Extracted Text
+----------------------------------------
+
+www.pcjeweller.com
+
+
